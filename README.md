@@ -4,6 +4,7 @@
   🎓 Electrical Engineering & Automation | 💻 Embedded & AI Enthusiast | 🌍 Currently in Germany
 </p>
 
+
 ---
 
 ### 🧠 About Me
@@ -42,16 +43,16 @@
 
 ### 📈 Stats
 
-![Junzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+![Junzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTTanger&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTTanger&layout=compact&theme=github_dark)
 
 ---
 
 ### 📫 Contact Me
 
-- 📮 Email: luojunzhe@ecust.edu.cn
-- 🌐 Blog: [Your Blog or Personal Website](https://yourblog.example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📮 Email: tangerluo@gmail.com
+- 🌐 Blog: [TangerHub](https://tangerluo.blog.tech)
+- 🔗 LinkedIn: [Junzhe Luo | LinkedIn](https://www.linkedin.com/in/junzhe-luo-67881a358/)
 
 ---
 
