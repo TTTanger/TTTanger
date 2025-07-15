@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Junzhe Luo (罗浚哲) 👋</h1>
+<h1 align="center">Hi, I'm Tanger Luo 👋</h1>
 
 <p align="center">
   🎓 Electrical Engineering & Automation | 💻 Embedded & AI Enthusiast | 🌍 Currently in Germany
