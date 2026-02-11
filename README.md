@@ -43,8 +43,8 @@
 
 ### 📈 Stats
 
-![Junzhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTTanger&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TTTanger&layout=compact&theme=github_dark)
+![Junzhe's GitHub stats](https://readme-stat-tau.vercel.app/api?username=TTTanger&show_icons=true&theme=github_dark)
+![Top Langs](https://readme-stat-tau.vercel.app/api/top-langs/?username=TTTanger&layout=compact&theme=github_dark)
 
 ---
 
@@ -57,6 +57,7 @@
 ---
 
 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+
 
 
 
