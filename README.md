@@ -13,7 +13,7 @@
 - 💡 Passionate about **Embedded Systems**, **AI applications**, and **Computer Engineering**
 - 🧪 Past intern at **NTT DATA (China)** working on **AI-based document recognition**
 - 🛠️ Currently developing personal projects using **Python**, **Flask**, and **C++**
-- 🌍 Rewared with **DAAD Scholarship**, with international research goals
+- 🌍 Rewarded with **DAAD Scholarship**, with international research goals
 
 ---
 
@@ -57,5 +57,6 @@
 ---
 
 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+
 
 
