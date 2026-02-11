@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanger Luo 👋</h1>
 
 <p align="center">
-  🎓 Electrical Engineering & Automation | 💻 Embedded & AI Enthusiast | 🌍 Currently in Germany
+  🎓 Electrical Engineering & Automation | 💻 Electrical & AI Enthusiast | 🌍 Currently in Germany
 </p>
 
 
@@ -13,7 +13,7 @@
 - 💡 Passionate about **Embedded Systems**, **AI applications**, and **Computer Engineering**
 - 🧪 Past intern at **NTT DATA (China)** working on **AI-based document recognition**
 - 🛠️ Currently developing personal projects using **Python**, **Flask**, and **C++**
-- 🌍 Applying for **DAAD Scholarship**, with international research goals
+- 🌍 Rewared with **DAAD Scholarship**, with international research goals
 
 ---
 
@@ -57,4 +57,5 @@
 ---
 
 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+
 
