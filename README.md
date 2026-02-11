@@ -34,10 +34,10 @@
 
 | Project                                                      | Description                                                  | Tech Stack                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
-| 📝 [Personal Blog System](https://github.com/yourusername/blog-system) | A Flask-based blog platform supporting markdown posts and user login | `Flask`, `SQLite`, `HTML`, `CSS` |
-| 🧠 Table Recognition with AI                                  | Developed during internship at NTT DATA, extracting table structures from scanned documents | `Python`, `OpenCV`, `PaddleOCR`  |
-| 📡 Data Link Protocol Simulation                              | A modular Python simulation of a communication protocol using Hamming & CRC | `Python`, `Socket`, `Threading`  |
-| 🍳 Recipe Management System                                   | A use-case-driven food recipe manager with user roles and CRUD features | `Python`, `Flask`, `Bootstrap`   |
+| 📝 [Personal Blog System](https://tanger-blog.asia) | A Docsify-based blog platform supporting markdown posts and comments | `Distributed System` |
+| 🧠 Table Recognition with AI                                  | Developed during internship at NTT DATA, extracting table structures from scanned documents | `PaddleOCR`  |
+| 📡 Data Link Protocol Simulation                              | A modular Python simulation of a communication protocol using Hamming & CRC | `Python`  |
+| 🍳 Recipe Management System                                   | A use-case-driven food recipe manager with user roles and CRUD features | `Java`   |
 
 ---
 
@@ -57,3 +57,4 @@
 ---
 
 *“Strive not to be a success, but rather to be of value.” – Albert Einstein*
+
