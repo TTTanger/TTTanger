@@ -35,7 +35,7 @@
 | Project                                                      | Description                                                  | Tech Stack                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- |
 | 📝 [Personal Blog System](https://www.tanger-blog.asia) | A Docsify-based blog platform supporting markdown posts and comments | `Distributed System` |
-| 🧠 Table Recognition with AI                                  | Developed during internship at NTT DATA, extracting table structures from scanned documents | `PaddleOCR`  |
+| 🧠 Chatbot and Image Generation                                  | Developed during internship at NTT DATA, extracting table structures from scanned documents | `Langflow, Dify`  |
 | 📡 Data Link Protocol Simulation                              | A modular Python simulation of a communication protocol using Hamming & CRC | `Python`  |
 | 🍳 Recipe Management System                                   | A use-case-driven food recipe manager with user roles and CRUD features | `Java`   |
 
