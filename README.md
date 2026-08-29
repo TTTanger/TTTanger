@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tanger Luo 👋</h1>
 
 <p align="center">
-  🎓 Electrical Engineering & Automation | 💻 Electrical & AI Enthusiast | 🌍 Currently in Germany
+  🎓 Electrical Engineering & Automation | 💻 Electrical & AI Enthusiast | 🌍 Currently in China
 </p>
 
 
@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🎓 **Undergraduate** at East China University of Science and Technology (ECUST)
+- 🎓 **Bachelor** at East China University of Science and Technology (ECUST)
 - 💡 Passionate about **Embedded Systems**, **AI applications**, and **Computer Engineering**
 - 🧪 Past intern at **NTT DATA (China)** working on **AI-based document recognition**
 - 🛠️ Currently developing personal projects using **Python**, **Flask**, and **C++**
@@ -52,7 +52,7 @@
 
 - 📮 Email: tangerluo@gmail.com
 - 🌐 Blog: [TangerHub](https://www.tanger-blog.asia)
-- 🔗 LinkedIn: [Junzhe Luo | LinkedIn](https://www.linkedin.com/in/junzhe-luo-67881a358/)
+- 🔗 LinkedIn: [Junzhe Luo | LinkedIn](https://www.linkedin.com/in/tanger-junzhe-luo/)
 
 ---
 
